@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GithubConnection3</string>
+
+    <string-array name="hoge_array">
+        <item>ほげ1</item>
+        <item>ほげ2</item>
+    </string-array>
+</resources>
